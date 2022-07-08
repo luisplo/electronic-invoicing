@@ -1,0 +1,25 @@
+{
+	"welcome": {
+		"title": "Bienvenido a mi app"
+	},
+	"login": {
+		"title": "Iniciar sesión",
+		"email": "Correo electrónico",
+		"password": "Contraseña",
+		"button": "Ingresar",
+		"email-example": "user@domain.com",
+		"password-example": "*******",
+		"forget-password": "¿Olvido su contraseña?"
+	},
+	"form": {
+		"errors": {
+			"login": {
+				"string": "El tipo de valor debe ser texto",
+				"invalid": "Valor invalido",
+				"required": "Campo requerido",
+				"max": "Máximo de caracteres: {{count}}",
+				"min": "Mínimo de caracteres: {{count}}"
+			}
+		}
+	}
+}

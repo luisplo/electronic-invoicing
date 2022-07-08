@@ -1,0 +1,14 @@
+{
+	"welcome": {
+		"title": "Welcome to my app"
+	},
+	"login": {
+		"title": "Sign in",
+		"email": "Email",
+		"password": "Password",
+		"button": "Sign",
+		"email-example": "user@domain.com",
+		"password-example": "*******",
+		"forget-password": "Forget password?"
+	}
+}
